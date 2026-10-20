@@ -1,0 +1,4 @@
+PackageID,PackageName,Category,DurationDays,PrimaryParkID,BasePriceUSD,CostPerPaxUSD,LaunchDate,TotalNetValue,Travellers_served,Booking_made
+PK12,Mara Great Migration Luxury Camp,Luxury,5,P01,4800,2750,2018-01-01,6253025,3850,1101
+PK13,Serengeti Migration Fly-In,Luxury,6,P06,6200,3600,2019-01-01,6085400,2851,828
+PK17,Ultimate East Africa Honeymoon,Luxury,12,P06,9800,5900,2022-02-14,5057095,1484,435
